@@ -1,0 +1,7 @@
+C:\Users\Егор\source\repos\21pp\21pp\bin\Debug\21pp.exe.config
+C:\Users\Егор\source\repos\21pp\21pp\bin\Debug\21pp.exe
+C:\Users\Егор\source\repos\21pp\21pp\bin\Debug\21pp.pdb
+C:\Users\Егор\source\repos\21pp\21pp\obj\Debug\21pp.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\21pp\21pp\obj\Debug\21pp.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\21pp\21pp\obj\Debug\21pp.exe
+C:\Users\Егор\source\repos\21pp\21pp\obj\Debug\21pp.pdb
